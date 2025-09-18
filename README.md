@@ -77,7 +77,6 @@ I see challenges as opportunities to grow, and I always try to approach problems
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dev-oguzhan-aydin/)  
 - 📧 [Email](dev.oguzhanaydin@gmail.com)  
-- 🌍 Portfolio Website (coming soon!)  
 
 ---
 
