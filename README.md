@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Oğuzhan AYDIN (ner1a)
+# 👋 Hi, I’m Oğuzhan AYDIN
 
 **Computer Engineer | Aspiring Full-Stack Developer | Problem Solver**
 
